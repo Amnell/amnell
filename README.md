@@ -3,8 +3,6 @@
 ![Image](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Image](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
-![Amnell's GitHub stats](https://github-readme-stats.vercel.app/api?username=amnell&show_icons=true&theme=algolia)
-
 <!--
 **Amnell/amnell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
